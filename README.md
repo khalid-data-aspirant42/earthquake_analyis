@@ -1,2 +1,2 @@
-# earthquake_analyis
-building deep learning model to predict upcoming earthquake including EDA
+# Seismic_analysis
+performing EDA on seismic dataset and building deep learning model for predictive analysis
